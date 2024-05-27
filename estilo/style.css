@@ -7,6 +7,16 @@ body {
     background-color: lightcoral;
 }
 
+h1 {
+    font-size: 24px;
+    color: #a52a2ab9; 
+}
+
+h2 {
+    font-size: 20px;
+    color: #a52a2ab9;
+}
+
 main {
     background-color: white;
     width: 500px;
